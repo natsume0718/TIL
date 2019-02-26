@@ -103,3 +103,7 @@ https://qiita.com/EisKern/items/3a12bd61ba572e8430d9#firewalld%E3%81%A7%E8%A8%AD
 
 https://qiita.com/kenokada/items/105007df710adec237db#ssh%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E7%95%AA%E5%8F%B7%E3%82%92%E5%A4%89%E6%9B%B4
 
+# Apache PHP MySQL(MariaDB)
+centos7ならこれでいける
+https://support.conoha.jp/vps/school/hellovps02/?btn_id=school-hellovps03-sidebar_school-hellovps02#sec06
+
