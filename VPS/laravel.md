@@ -25,3 +25,14 @@ composer global require "laravel/installer"
 export PATH="~/.config/composer/vendor/bin:$PATH"
 ```
 pathについては(https://qiita.com/Naggi-Goishi/items/2c49ea50602ea80bf015)
+<p>コンポーザーのコマンドが使えるようになった</p>
+```
+# laravelプロジェクトを作成する(最新)
+laravel new project_name
+# composerコマンドからlaravelプロジェクトを作成する
+composer create-project laravel/laravel --prefer-dist project_name 5.7
+# composerコマンドからlaravelプロジェクトを作成する
+composer create-project laravel/laravel --prefer-dist project_name 5.6
+# composerコマンドからlaravelプロジェクトを作成する
+composer create-project laravel/laravel --prefer-dist project_name 5.5
+```
