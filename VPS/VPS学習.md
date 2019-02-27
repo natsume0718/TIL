@@ -128,3 +128,21 @@ localupdate	ローカルのrpmファイルでアップデートする
 ```
 yumのオプション(https://uxmilk.jp/9899)
 yum -y は全部yes
+
+### ドキュメントルート変更
+初期は
+`/var/www/htm`
+管理しているのは
+`/etc/httpd/conf/httpd.conf`
+の
+`DocumentRoot "/var/www/html"`
+を変更する
+先に変更するディレクトリが存在しないとエラーになる
+```
+Job for httpd.service failed because the control process exited with error code. See "systemctl status httpd.service" and "journalctl -xe" for details.
+```
+とかいうのがでてたら
+```
+sudo service httpd configtest
+```
+でエラーが出てないか確認できるのでそこを治す。
