@@ -107,3 +107,24 @@ https://qiita.com/kenokada/items/105007df710adec237db#ssh%E3%81%AE%E3%83%9D%E3%8
 centos7ならこれでいける
 https://support.conoha.jp/vps/school/hellovps02/?btn_id=school-hellovps03-sidebar_school-hellovps02#sec06
 
+# yum
+
+```
+yumのサブコマンド
+コマンド	意味
+install	パッケージのインストール
+update	パッケージのアップデート
+check-update	アップデートのチェック
+remove	パッケージの削除
+list	利用可能なパッケージのリスト
+info	パッケージの情報を表示する
+groupinstall	パッケージグループのインストール
+groupupdate	パッケージグループのアップデート
+grouplist	パッケージグループのリスト表示
+groupinfo	パッケージグループの情報を表示
+search	指定した文字列を含むパッケージを検索する
+localinstall	ローカルのrpmファイルでインストールする
+localupdate	ローカルのrpmファイルでアップデートする
+```
+yumのオプション(https://uxmilk.jp/9899)
+yum -y は全部yes
