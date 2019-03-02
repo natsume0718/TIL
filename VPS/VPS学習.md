@@ -146,3 +146,8 @@ Job for httpd.service failed because the control process exited with error code.
 sudo service httpd configtest
 ```
 でエラーが出てないか確認できるのでそこを治す。
+
+### 403 エラー
+パーミッションを見直す。
+その他ユーザーにはr-xが必要
+https://engineers.weddingpark.co.jp/?p=1031
