@@ -107,6 +107,11 @@ https://qiita.com/kenokada/items/105007df710adec237db#ssh%E3%81%AE%E3%83%9D%E3%8
 centos7ならこれでいける
 https://support.conoha.jp/vps/school/hellovps02/?btn_id=school-hellovps03-sidebar_school-hellovps02#sec06
 
+もし、html表示のところで失敗した場合
+https://www.imd-net.com/column/13339/
+を参考にポートの開放を行う
+
+
 # yum
 
 ```
