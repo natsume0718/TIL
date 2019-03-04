@@ -24,6 +24,7 @@ composer global require "laravel/installer"
 # パスを通す
 export PATH="~/.config/composer/vendor/bin:$PATH"
 ```
+
 pathについては(https://qiita.com/Naggi-Goishi/items/2c49ea50602ea80bf015)
 <p>コンポーザーのコマンドが使えるようになった</p>
 
@@ -37,3 +38,9 @@ composer create-project laravel/laravel --prefer-dist project_name 5.6
 # composerコマンドからlaravelプロジェクトを作成する
 composer create-project laravel/laravel --prefer-dist project_name 5.5
 ```
+
+## cloud9にlaravel
+https://qiita.com/ntm718/items/19622e7cfb535c25300c
+https://www.ritolab.com/entry/22#aj_4
+https://laraweb.net/environment/3953/
+
