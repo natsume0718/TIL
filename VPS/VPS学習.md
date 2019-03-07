@@ -156,3 +156,9 @@ sudo service httpd configtest
 パーミッションを見直す。
 その他ユーザーにはr-xが必要
 https://engineers.weddingpark.co.jp/?p=1031
+
+### Basic認証
+conohaでの必須設定
+・　https://qiita.com/Nekonecode/items/23b3be0f9e54dc39058b
+.htaccess
+・　https://allabout.co.jp/gm/gc/23780/3/
