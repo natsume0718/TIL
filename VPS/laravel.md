@@ -44,3 +44,11 @@ https://qiita.com/ntm718/items/19622e7cfb535c25300c
 https://www.ritolab.com/entry/22#aj_4
 https://laraweb.net/environment/3953/
 
+## 初期設定
+日時,ログ設定
+```
+config/app.php
+'timezone' => 'Asia/Tokyo',
+'log' => env('APP_LOG', 'daily'),
+'log_max_file'=>30,
+```
