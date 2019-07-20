@@ -1,0 +1,33 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "editor.dragAndDrop": false,
+    "debug.inlineValues": true,
+    "editor.find.autoFindInSelection": true,
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "debug.openDebug": "openOnSessionStart",
+    "blade.format.enable": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "workbench.editor.enablePreview": false
+}
+
+- Beautify
+- DotENV
+- EvilSpector
+- HTML Snippets
+- Japanese Language Pack for Visual Studio Code
+- Laravel 5 Snippets
+- Laravel 5 Snippets
+- Laravel Blade Snippets
+- open in browser
+- PHP Debug
+- PHP Extension Pack
+- PHP Intelephense
+- PHP IntelliSense
+- zenkaku
+- RemoteSSH
