@@ -12,6 +12,8 @@
 
 - https://qiita.com/itigoore01/items/c0e8ef5756503ef588d1
 
+- http://anonymous3211.hatenablog.com/entry/2018/07/21/212403
+
 </p>
 <h1>nginx</h1>
 <p>
