@@ -1,0 +1,12 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+
+
+#vargrant Homestead - Start ##
+192.168.10.10 homestead.test
+
+# Vargrant Homestead - End ##
